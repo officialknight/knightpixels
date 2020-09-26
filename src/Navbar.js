@@ -6,7 +6,8 @@ function Navbar(){
     return(<div className="NavBar">
     <div >
     <SiteName /> </div>
-  <div className="Navbaritems"> <NavComps text="Movies" />
+  <div className="Navbaritems"> 
+    <NavComps text="Movies" />
     <NavComps text="TV Shows"/>
     <NavComps text="Games"/>    
     <NavComps text="Linux"/> 
